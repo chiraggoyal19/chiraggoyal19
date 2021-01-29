@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Chirag](https://www.linkedin.com/in/chirag-goyal/) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-![](https://visitor-badge.glitch.me/badge?page_id=)
+![](https://visitor-badge.glitch.me/badge?page_id=chiraggoyal19)
 
 [![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=chiraggoyal19)](https://github.com/anuraghazra/github-readme-stats)
 
